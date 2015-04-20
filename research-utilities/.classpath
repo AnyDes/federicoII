@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Franco/Raffaele/Gestione farmaci/sorgenti/similarity libs/jwi-2.2.2.jar/jwi-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gafr423/Desktop/Federico II/Dottorato/FastMap/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gafr423/Desktop/Federico II/Dottorato/FastMap/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gafr423/Desktop/Federico II/Dottorato/FastMap/lib/commons-collections-3.2.1-bin/commons-collections-3.2.1/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gafr423/Desktop/Federico II/Dottorato/FastMap/lib/commons-io-2.4-bin/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gafr423/Desktop/Federico II/Dottorato/FastMap/lib/commons-lang-2.6-bin/commons-lang-2.6/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Franco/Raffaele/Gestione farmaci/sorgenti/similarity libs/edu.mit.jwi_2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Franco/Raffaele/Gestione farmaci/sorgenti/similarity libs/jaws-src-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Franco/Raffaele/Gestione farmaci/sorgenti/similarity libs/jaws-bin-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gafr423/Desktop/sperimentazione dottorato/mdsj.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
